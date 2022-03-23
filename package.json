@@ -4,6 +4,7 @@
   "bin": {
     "aws-asynch-api-with-cdk": "bin/aws-asynch-api-with-cdk.js"
   },
+  "main": "index.js",
   "scripts": {
     "build": "tsc",
     "watch": "tsc -w",
